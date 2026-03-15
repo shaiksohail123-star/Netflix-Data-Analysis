@@ -1,6 +1,6 @@
-# Netflix Data Analysis Dashboard (Excel)
+# Netflix Data Analysis Dashboard
 
-This project analyzes Netflix Movies and TV Shows dataset using Excel.
+This project analyzes Netflix Movies and TV Shows dataset using Microsoft Excel.
 
 ## Tools Used
 - Microsoft Excel
@@ -18,3 +18,5 @@ Netflix Movies and TV Shows Dataset
 • United States produces the highest Netflix content
 
 ## Dashboard Preview
+
+![Dashboard](netflix_dashboard.png)
